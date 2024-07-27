@@ -1,3 +1,3 @@
 <?php
 
-echo file_get_contents("Test.txt");
+echo file_get_contents("test.php");
