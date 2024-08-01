@@ -1,3 +1,8 @@
+header("Access-Control-Allow-Origin: https://544270133594685071.weebly.com");
+header("Content-Type: application/json");
+header("Access-Control-Allow-Methods: POST, GET");
+header("Access-Control-Allow-Headers: Content-Type, Authorization");
+
 <?php
 // update_stats.php
 
